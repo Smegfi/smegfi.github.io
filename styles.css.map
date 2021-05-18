@@ -1,1 +1,1 @@
-{"version":3,"sources":["./styles.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;EACA;AACF,C","file":"styles.css","sourcesContent":["*{\n  font-family: \"Agency FB\";\n  width: 100%;\n  margin: 0;\n  padding: 0;\n}\n"],"sourceRoot":"webpack:///"}
+{"version":3,"sources":["./styles.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;EACA;AACF;;AACA;EACE;AAEF,C","file":"styles.css","sourcesContent":["*{\n  width: 100%;\n  padding: 0;\n  margin: 0;\n  font-family: \"Agency FB\";\n}\nhtml{\n  background-color: black;\n}\n"],"sourceRoot":"webpack:///"}
