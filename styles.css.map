@@ -1,1 +1,0 @@
-{"version":3,"sources":["./styles.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;EACA;AACF,C","file":"styles.css","sourcesContent":["*{\n  font-family: \"Agency FB\";\n  width: 100%;\n  margin: 0;\n  padding: 0;\n}\n"],"sourceRoot":"webpack:///"}
